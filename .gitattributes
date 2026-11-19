@@ -1,0 +1,4 @@
+# Preserve the exact files used by the archived experiments.
+projects/sql-agent/run_eval_7b_v2.py -text
+projects/sql-agent/run_eval_7b_v3.py -text
+projects/sql-agent/evaluation/holdout.json -text
